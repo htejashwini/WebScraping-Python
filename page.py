@@ -1,3 +1,5 @@
+# Web scrpaing using python that includes saving data that is obtained in pagination form 
+
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
